@@ -1,0 +1,9 @@
+Up/Down = Gain 
+Left/Right = Pitch
+\
+W/S = Grain Position 
+A/D = Grain Length
+\
+1 through 0 num Keys = Sample Banks 
+(Press Once to start recording a 5 second sample, Press again to stop recording, 
+Press again to Play back sample, Press last time to clear bank for new use)
